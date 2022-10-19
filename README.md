@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ReactJs 
 - 💞️ I’m looking to collaborate on any Projects as a product manager 
 - 📫 How to reach me through My email kareynjeri@gmail.com
-- 📫 Check out my twitter @kareynjeri1'
--  📫 How to reach me through My email kareynjeri@gmail.com
+- 📫 How to reach me through My twitter kareynjeri1
+
 
 <!---
 kareynjeri/kareynjeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
