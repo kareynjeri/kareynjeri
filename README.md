@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ReactJs 
 - 💞️ I’m looking to collaborate on any Projects as a product manager 
 - 📫 How to reach me through My email kareynjeri@gmail.com
-- 📫 How to reach me through My twitter kareynjeri1
+
 
 
 <!---
